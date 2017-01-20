@@ -56,6 +56,9 @@ Berlin Gesundbrunnen
 Berlin Hauptbahnhof
 Berlin Ostbahnhof
 Berlin Sudkreuz
+Berlin Ostkreuz
+Berlin Westkreuz
+Berlin Alexanderplatz
 Berlin Wannsee
 Berlin-Lichtenberg
 Berlin-Spandau
