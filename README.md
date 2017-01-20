@@ -20,6 +20,6 @@ To make a skill in Alexa you need an Alexa developer account and an aws account,
 
 4. If you are planning to use a Lambda function from aws, then let's make it now. Go to aws.amazon.com, and look for Lambda. Click on `Create a Lambda Function`, select `Blank Function` and continue. Do not forget to configure the trigger! Click on the "clickable" blank box and select "Alexa Skills ...
 
-![configure trigger](http://bit.do/how-to-markdown)
+![configure trigger](https://github.com/Emelieh21/where-is-my-train/blob/master/screenshots/configure_triggers.png)
 
 4. In the `Configuration` - set the endpoint. If you use a Lambda function add
