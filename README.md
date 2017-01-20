@@ -16,4 +16,10 @@ To make a skill in Alexa you need an Alexa developer account and an aws account,
 
 2. Click on add a new skill, fill in the skill information and click "Next".
 
-3. In the interaction model - add the intent_schema, the **two** custom slot types (LIST_OF_STATIONS_ONE and LIST_OF_STATIONS_TWO) and the example_utterances.
+3. In the `Interaction Model` - add the intent_schema, the **two** custom slot types (LIST_OF_STATIONS_ONE and LIST_OF_STATIONS_TWO) and the example_utterances.
+
+4. If you are planning to use a Lambda function from aws, then let's make it now. Go to aws.amazon.com, and look for Lambda. Click on `Create a Lambda Function`, select `Blank Function` and continue. Do not forget to configure the trigger! Click on the "clickable" blank box and select "Alexa Skills ...
+
+![configure trigger](http://bit.do/how-to-markdown)
+
+4. In the `Configuration` - set the endpoint. If you use a Lambda function add
