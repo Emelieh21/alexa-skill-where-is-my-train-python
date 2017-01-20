@@ -1,0 +1,29 @@
+{
+    "intents": [
+        {
+            "intent": "GetTrainTimes",
+            "slots": [
+                {
+                    "name": "StationOne",
+                    "type": "LIST_OF_STATIONS_ONE"
+                },
+              	{
+                    "name": "StationTwo",
+                    "type": "LIST_OF_STATIONS_TWO" 
+              	}
+            ]
+        },
+      	{
+            "intent": "KnowEnoughIntent"
+        },
+        {
+            "intent": "AMAZON.HelpIntent"
+        },
+        {
+            "intent": "AMAZON.StopIntent"
+        },
+        {
+            "intent": "AMAZON.CancelIntent"
+        }
+    ]
+}
