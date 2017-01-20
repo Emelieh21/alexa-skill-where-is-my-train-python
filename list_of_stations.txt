@@ -1,0 +1,338 @@
+Berlin
+Cologne
+Munich
+Frankfurt
+Stuttgart
+Dresden
+Mannheim
+Nuremburg
+Karlsruhe
+Dusseldorf
+Hamburg
+Kaiserslautern
+Freiburg
+Saarbrucken
+Hannover
+Heidelberg
+Garmisch
+Aachen
+Wurzburg
+Bonn
+Aachen Hauptbahnhof
+Aalen
+Ainring
+Alfeld
+Altenbeken
+Andernach
+Angermunde
+Anklam
+Ansbach
+Apolda
+Aschaffenburg 
+Assmannshausen
+Augsburg 
+Augustfehn
+Aulendorf
+Bad Bentheim
+Bad Bevensen
+Bad Endorf
+Bad Hersfeld
+Bad Kleinen
+Bad Krozingen
+Bad Oeynhausen
+Bad Reichenhall
+Bad Reichenhall-Kirchberg
+Bad Schandau
+Bad Zwischenahn
+Baden-Baden
+Bamberg
+Basel Bad
+Bayerisch Gmain
+Bebra
+Bensheim
+Berchtesgaden 
+Bergen auf Rugen
+Berlin Gesundbrunnen
+Berlin Hauptbahnhof
+Berlin Ostbahnhof
+Berlin Sudkreuz
+Berlin Wannsee
+Berlin-Lichtenberg
+Berlin-Spandau
+Bernau
+Biberach
+Bielefeld 
+Bingen
+Bischofswiesen
+Bitterfeld
+Boblingen
+Bochum 
+Bonn Hauptbahnhof
+Bonn-Beuel
+Boppard 
+Brandenburg 
+Braunschweig 
+Bremen 
+Bruchsal
+Buchloe
+Buchen
+Bunde
+Butzow
+Celle
+Cham
+Coswig
+Cottbus
+Crailsheim
+Darmstadt 
+Delmenhorst
+Dessau 
+Diepholz
+Donaueschingen
+Donauworth
+Dortmund 
+Dresden Hauptbahnhof
+Dresden-Neustadt
+Duren
+Dusseldorf Airport
+Dusseldorf Hauptbahnhof
+Duisburg 
+Eberswalde 
+Eisenach
+Ellwangen
+Elsterwerda
+Eltville
+Elze
+Emden Außenhafen
+Emden 
+Erfurt 
+Erlangen
+Essen 
+Esslingen
+Eutingen im Gau
+Fehmarn-Burg
+Fischen
+Flensburg
+Frankfurt Airport
+Frankfurt Hauptbahnhof
+Frankfurt South
+Frankfurt West
+Frankfurt am Oder
+Freilassing
+Freising
+Friedberg
+Friedrichshafen Stadt
+Fulda
+Furth
+Garmisch-Partenkirchen
+Geilenkirchen
+Geislingen
+Gelsenkirchen 
+Gießen
+Goppingen
+Gotha
+Gottingen
+Greifswald
+Gunzburg
+Gutersloh 
+Gunzenhausen
+Haffkrug
+Hagen 
+Halle
+Hamburg Dammtor
+Hamburg Hauptbahnhof
+Hamburg-Altona
+Hamburg-Bergedorf
+Hamburg-Harburg
+Hamm
+Hammerau
+Hanau 
+Hannover Hauptbahnhof
+Hannover Messe Laatzen
+Hausach
+Heide
+Helmstedt
+Heppenheim
+Herford
+Herzogenrath
+Hildesheim 
+Homburg Saar
+Horb
+Hornberg
+Hude
+Hunfeld
+Husum
+Ibbenburen
+Immendingen
+Immenstadt
+Ingolstadt 
+Itzehoe
+Jena Paradies
+Jena-Goschwitz
+Karlsruhe Hauptbahnhof
+Karlsruhe-Durlach
+Kassel-Wilhelmshohe
+Kaufbeuren
+Kempten
+Kiel 
+Koblenz 
+Koln 
+Koln Messe Deutz
+Cologne Bonn Airport
+Cologne Messe Deutz
+Koln Bonn Airport
+Konigs Wusterhausen
+Konstanz
+Kothen
+Krefeld 
+Kreiensen
+Lahr
+Landshut
+Landstuhl
+Langenhagen Mitte
+Leer
+Leipzig 
+Leipzig Halle Airport
+Lichtenfels
+Limburg Sud
+Lindau 
+Lingen
+Lippstadt
+Ludwigsburg
+Ludwigshafen
+Ludwigslust
+Lubben
+Lubbenau
+Lubeck 
+Luneburg
+Lutherstadt Wittenberg
+Magdeburg 
+Mainz 
+Mannheim Hauptbahnhof
+Marburg
+Marienhafe
+Meckenbeuren
+Memmingen
+Meppen
+Metzingen
+Minden
+Mittenwald
+Monchengladbach 
+Montabaur
+Muhlacker
+Mulheim
+Mullheim
+Munchen Hauptbahnhof
+Munchen Ost
+Munchen-Pasing
+Munster
+Murnau
+Naumburg
+Neufahrn
+Neumarkt
+Neumunster
+Neuss 
+Neustadt
+Neustrelitz 
+Neu-Ulm
+Niebull
+Nienburg
+Norddeich
+Norddeich Mole
+Norden
+Northeim
+Nurnberg 
+Nurtingen
+Oberau
+Oberhausen 
+Oberstdorf
+Offenbach
+Offenburg
+Oldenburg
+Osnabruck 
+Ostseebad Binz
+Paderborn 
+Papenburg
+Pasewalk
+Passau 
+Peine
+Pforzheim 
+Piding
+Plattling
+Plochingen
+Potsdam 
+Prenzlau
+Prien am Chiemsee
+Prora
+Puttgarden
+Radolfzell
+Rastatt
+Ravensburg
+Recklinghausen 
+Regensburg 
+Remagen
+Rendsburg
+Reutlingen 
+Rheine
+Rheydt 
+Ribnitz-Damgarten West
+Riesa
+Rosenheim
+Rostock 
+Rottweil
+Rudesheim
+Saalfeld
+Scharbeutz
+Schleswig
+Schluchtern
+Schorndorf
+Schwabisch Gmund
+Schwandorf
+Schwerin 
+Siegburg Bonn
+Sierksdorf
+Singen
+Soest
+Solingen 
+Sonthofen
+St Georgen
+Stadtallendorf
+Steinach
+Stendal
+Stralsund 
+Straubing
+Stuttgart Hauptbahnhof
+Timmendorferstrand
+Traunstein
+Treuchtlingen
+Treysa
+Triberg
+Tubingen 
+Tuttlingen
+Tutzing
+ubersee
+Uelzen
+Ulm 
+Vaihingen
+Velgast
+Verden
+Viersen
+Villingen
+Wabern
+Wanne-Eickel 
+Warburg
+Waren
+Warnemunde
+Weil am Rhein
+Weimar
+Weinheim
+Weißenfels
+Westerland
+Westerstede-Ocholt
+Wiesbaden 
+Wiesloch-Walldorf
+Wittenberge
+Wolfsburg 
+Worms 
+Wurzburg Hauptbahnhof
+Wuppertal 
+Zussow
