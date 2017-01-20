@@ -1,0 +1,21 @@
+GetTrainTimes when is the next train from {StationOne} to {StationTwo}
+GetTrainTimes from {StationOne} to {StationTwo}
+GetTrainTimes I want to go from {StationOne} to {StationTwo}
+GetTrainTimes I want the train times from {StationOne} to {StationTwo}
+GetTrainTimes I would like to go from {StationOne} to {StationTwo}
+GetTrainTimes at what time is the next train from {StationOne} to {StationTwo}
+GetTrainTimes what time is the next train from {StationOne} to {StationTwo}
+GetTrainTimes the next train from {StationOne} to {StationTwo}
+GetTrainTimes the next connection between {StationOne} and {StationTwo}
+GetTrainTimes the next connection from {StationOne} to {StationTwo}
+GetTrainTimes when is the next connection between {StationOne} and {StationTwo}
+GetTrainTimes at what time is the next connection between {StationOne} and {StationTwo}
+GetTrainTimes the first following train from {StationOne} to {StationTwo}
+GetTrainTimes when is the first following train from {StationOne} to {StationTwo}
+GetTrainTimes at what time is the first following train from {StationOne} to {StationTwo}
+GetTrainTimes the train from {StationOne} to {StationTwo}
+GetTrainTimes when will the next train leave from {StationOne} to {StationTwo}
+GetTrainTimes at what time will the next train leave from {StationOne} to {StationTwo}
+KnowEnoughIntent I know enough
+KnowEnoughIntent enough
+KnowEnoughIntent that is all
